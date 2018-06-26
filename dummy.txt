@@ -1,0 +1,5 @@
+4
+Magazine,Title Title,1011101,A,13,2019,Publisher,12345,23
+Film,Title Title,1011101,A,Main Actor,1998
+Newspaper,Title Title,101101,A,13,2019,city where newspaper was published,23
+Book,Title Title,101101,A,13,2019,Book's Author, Book's Publisher,12345
